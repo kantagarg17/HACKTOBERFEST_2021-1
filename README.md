@@ -1,1 +1,9 @@
-# HACKTOBERFEST_2021
+# HACKTOBERFEST 2021
+
+# Como participar?
+
+* Fork esse repositório
+* Faça suas edições
+* Crie um pull request
+* Repita mais 3 vezes 😀
+* Ganhe a camisa do (Hacktoberfest)[https://hacktoberfest.digitalocean.com/]!!!
