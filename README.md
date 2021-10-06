@@ -6,4 +6,8 @@
 * Faça suas edições
 * Crie um pull request
 * Repita mais 3 vezes 😀
-* Ganhe a camisa do (Hacktoberfest)[https://hacktoberfest.digitalocean.com/]!!!
+* Ganhe a camisa do [Hacktoberfest](https://hacktoberfest.digitalocean.com/)!!!
+
+# Participaram desse evento
+
+* [Lucas Santiago](https://github.com/LucasSnatiago)
