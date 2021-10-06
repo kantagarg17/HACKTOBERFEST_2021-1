@@ -8,6 +8,8 @@
 * Repita mais 3 vezes 😀
 * Ganhe a camisa do [Hacktoberfest](https://hacktoberfest.digitalocean.com/)!!!
 
-# Participaram desse evento
+# Códigos adicionados
 
-* [Lucas Santiago](https://github.com/LucasSnatiago)
+* Hello world em C
+* Hello world em C++
+* Hello world em Python
